@@ -59,4 +59,4 @@ Setup
 Attribution
 ===========
 
-[Heart] designed by [Diego Naive] from The [wholesale sandblasted signs](http://www.wholesalesign.net/)
+Heart designed by Diego Naive from The [wholesale sandblasted signs](http://www.wholesalesign.net/)
