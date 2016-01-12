@@ -59,7 +59,4 @@ Setup
 Attribution
 ===========
 
-[Heart] designed by [Diego Naive] from The Noun Project
-
-[Heart]: http://thenounproject.com/noun/heart/#icon-No15259
-[Diego Naive]: http://thenounproject.com/diegonaive
+[Heart] designed by [Diego Naive] from The [wholesale sandblasted signs](http://www.wholesalesign.net/)
